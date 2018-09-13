@@ -1,5 +1,3 @@
 output/*
-tensorboard/*
-data/*
 .ipython_checkpoints/*
 .ipython_checkpoints
